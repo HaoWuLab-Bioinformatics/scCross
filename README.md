@@ -1,5 +1,6 @@
 # scCross
-A Deep Learning-Based Model for integration, cross-dataset cross-modality generation and matched muti-omics simulation of single-cell multi-omics data. Our model can also maintain in-silico perturbations in cross-modality generation and can use in-silico perturbations to find key genes. 
+A Deep Learning-Based Model for integration, cross-dataset cross-modality generation and matched muti-omics simulation of single-cell multi-omics data. Our model can also maintain in-silico perturbations in cross-modality generation and can use in-silico perturbations to find key genes.  
+
 Tutorials of scCross can be found here. [**scCross Documentation**](https://sccross.readthedocs.io/en/latest/index.html)
 
 ## Overview
