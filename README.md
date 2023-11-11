@@ -39,5 +39,4 @@ You may install scCross by the following command:
 pip install sccross
 ```
 
-You can also access our code at [scCross](https://github.com/HaoWuLab-Bioinformatics/scCross).
 
